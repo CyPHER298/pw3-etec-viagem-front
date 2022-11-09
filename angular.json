@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "etec-tour"
+  "defaultProject": "etec-tour",
+  "cli": {
+    "analytics": false
+  }
 }
